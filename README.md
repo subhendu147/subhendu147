@@ -1,5 +1,5 @@
 - 👋 Hey, There
-- I am Subhendu , a NLP Enthusiast 🚀
+- I am Subhendu , an NLP Enthusiast 🚀
 - 🌱 I’m currently learning Machine Learning, Deep Learning Techniques, & PowerBI.
 
 <!---
