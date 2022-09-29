@@ -1,6 +1,6 @@
 - 👋 Hey, There
 - I am Subhendu , a NLP Enthusiast 🚀
-- 🌱 I’m currently Machine Learning, Deep Learning Techniques, & PowerBI.
+- 🌱 I’m currently learning Machine Learning, Deep Learning Techniques, & PowerBI.
 - 📫 How to reach me: +91-7609087604
 
 <!---
